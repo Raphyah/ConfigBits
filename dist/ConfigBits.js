@@ -1,7 +1,7 @@
 /**
  * Author: Raphyah
  * Version: 1.0.0
- * License: GNU GPL 3.0
+ * License: MIT
  */
 export class ArgumentError extends Error {
     constructor(...args) {
